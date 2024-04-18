@@ -1,2 +1,2 @@
 # simulador_de_vingar_pai
-Um RPG de texto feito em Python para testar meus conhecimentos mais básicos.
+Um RPG de texto feito em Python sobre alguém que quer vingar a morte de seu pai.
